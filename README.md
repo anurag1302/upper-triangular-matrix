@@ -1,5 +1,5 @@
 # upper-triangular-matrix
-### Console application demonstrating calculation of an upper triangular matrix
+### Console application demonstrating calculation of an upper triangular matrix.
 
 ```
 An Upper Triangular matrix is one which is calculated by replacing the non zero elements by zero, 
