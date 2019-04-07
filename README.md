@@ -12,7 +12,7 @@ Similar for Lower Triangular matrix.
 
 ### Steps to Execute the Code:
 
-Create a console application using VS.
+Create a console application using Visual Studio.
 
 Copy the code uploaded in the Program.cs file and paste it in your console app.
 
